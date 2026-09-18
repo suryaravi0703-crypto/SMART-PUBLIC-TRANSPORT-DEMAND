@@ -1,0 +1,6 @@
+{
+  "name": "Smart Public Transport Demand Prediction System",
+  "description": "Intelligent urban bus demand forecasting, peak-hour analytics, and fleet capacity recommendation platform for public transit authorities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
